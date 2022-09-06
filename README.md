@@ -6,5 +6,5 @@
 -->
 
 - 🍀 I'm interested in software development, cybersecurity, and machine learning.
-- 🍇 I'm studying Computer Science at the University of Maryland.
+- 🍇 I'm studying computer science at the University of Maryland.
 - 🧊 Find me on LinkedIn at linkedin.com/in/lucas-yang.
