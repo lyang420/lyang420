@@ -8,5 +8,5 @@
 :headphones:
 
 - Studying computer science at the University of Maryland.
-- Interested in learning more about the software development process and maintaining network security.
+- Interested in learning more about the software development lifecycle, system and network security.
 - Find me on [LinkedIn](https://linkedin.com/in/lucas-yang/).
