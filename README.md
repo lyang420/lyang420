@@ -15,6 +15,4 @@ I am currently a junior at the University of Maryland, College Park.
 
 Interested in learning more about software development lifecycle and computer network security.
 
-I may leave the odd project here from time to time.
-
-Find me on [LinkedIn](https://linkedin.com/in/lucas-yang/), or email me for access to private repositories.
+I may leave the odd project here from time to time; find me on [LinkedIn](https://linkedin.com/in/lucas-yang/), or email me for access to private repositories.
