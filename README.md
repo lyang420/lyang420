@@ -1,11 +1,9 @@
 
-### About Me
+### About Me :headphones:
 
 <!--
 **lyang420/lyang420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-:headphones:
 
 Hello!
 
