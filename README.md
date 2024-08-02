@@ -1,8 +1,6 @@
-## Hi, I'm Lucas! 
 
-### GitHub Stats
 
-![lyang420's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyang420&show_icons=true&count_private=true&theme=radical)
+<img src="https://github.com/lyang420/lyang420/blob/main/landing-page.png">
 
 ### Connect with Me
 
