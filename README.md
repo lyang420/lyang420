@@ -10,7 +10,7 @@ Presently, my interests stay in information security, network, and software engi
 I graduated from the University of Maryland, College Park with my bachelor's in 2024.
 
 Big fan of C, Python, Java, JavaScript, and Ruby. I've also worked with HTML/CSS, Dart,
-MySQL, and a few variants of x86 Assembly. Learning Rust.
+MySQL, and Assembly Language. Learning Rust.
 
 Don't ask me about Haskell.
 
