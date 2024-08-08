@@ -4,8 +4,8 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyang420&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&line_height=0">
 </p> 
 
-I've worked in an array of hardware and software focused roles -- troubleshooting,
-system resets, project management, research, and more -- in big teams and small.
+I've worked in an array of hardware and software focused roles - troubleshooting,
+system resets, project management, research, and more - in big teams and small.
 Presently, my interests stay in information security, network, and software engineering.
 I graduated from the University of Maryland, College Park with my bachelor's in 2024.
 
